@@ -10,6 +10,8 @@ MABLEはワイヤレス、左右分割、36キーのコンパクトなキーボ�
 * ZMK firmwareもしくはKMK firmware
 * 3Dプリンタ製のケース
 
+![MABLE](mable.jpg)
+
 ## BOM
 
 遊舎工房、TAL PKEYBOARD、スイッチサイエンス、千石電商などで入手可能です。(2024/10時点で欠品の部品がいくつかありました)
